@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BuehnerU - also called *Uli Buehner*
 - 👀 I’m interested in Medical Device Development.
-- 🌱 I’m currently learning C#, git, SWIFT, ...
+- 🌱 I’m currently learning C#, Python, git, SWIFT, ...
 - 💞️ I’m working for [Stryker](https://www.stryker.com), but this is my personal github.
 - 📫 How to reach me ... email ulrich.buehner_at_online.de
 
